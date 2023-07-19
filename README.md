@@ -1,6 +1,7 @@
-<img align="center" alt="DevOps" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
 <h1 align="center">Hi 👋, I'm Sparsh Khandelwal</h1>
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
+<img align="center" alt="DevOps" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
+
 
 - 🔭 I’m currently working on **Terraform**
 
