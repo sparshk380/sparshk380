@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Terraform<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Linux, Git, GitHub, Python, Terraform, Shell scripting<br>⚡ Fun fact I know I am funny 😁
+🔭 I’m currently working on Terraform<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Linux, Git, GitHub, Python, Terraform, Shell scripting<br>
 
 <img align="center" alt="DevOps" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
 
