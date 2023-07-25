@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Terraform<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Linux, Git, GitHub, Python, Terraform, Shell scripting<br>
-
+<p align="center">
 <img align="center" alt="DevOps" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sparshk_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh-khandelwal-316260202) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sparsh4128) 
